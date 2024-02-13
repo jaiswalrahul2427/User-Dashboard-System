@@ -23,6 +23,7 @@ AOS Library: The AOS library is used to add smooth animations to various element
 Usage
 Feel free to use and customize this user dashboard for your own projects. You can modify the code to suit your specific requirements and design preferences.
 
-**Contributors**
-Your Name - Rahul Jaiswal
+**Contributing**
+
+Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 ![image](https://github.com/jaiswalrahul2427/User-Dashboard-System/assets/133475235/2c22bde6-4b99-42bf-9372-bfe0d15a3ea1)
